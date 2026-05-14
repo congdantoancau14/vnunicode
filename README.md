@@ -35,7 +35,7 @@
 
 Dự án được phát triển bởi **Phương Trần** - Technical Lead với niềm đam mê về ngôn ngữ học và tự động hóa hệ thống.
 
-- **Email**: [thapphuongtr@gmail.com](mailto:thapphuongtr@gmail.com)
+- **Email**: [phuongtranlangit@gmail.com](mailto:phuongtranlangit@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/phuongtranduc/]
 - **Buy me a coffee**: Nếu công cụ này hữu ích với bạn, hãy mời mình một ly cafe tại [buymeacoffee.com/phuongtran](https://buymeacoffee.com/phuongtran)
 
